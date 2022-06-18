@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+.formInput input{
+  padding: 15px;
+  margin: 10px 0px;
+  border-radius: 15px;
+}
